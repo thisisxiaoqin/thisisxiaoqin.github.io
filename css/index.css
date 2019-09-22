@@ -624,7 +624,7 @@ table td {
   transform: translate(-50%, -115%);
 }
 #sidebar {
-  float: right;
+  float: left;
   width: 300px;
 }
 .sidebar-inner {
@@ -1163,7 +1163,7 @@ table td {
   font-size: 14px;
   background-color: #fff;
   width: calc(100% - 320px);
-  float: left;
+  float: right;
 }
 .content a {
   word-wrap: break-word;
